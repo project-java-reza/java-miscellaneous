@@ -16,5 +16,9 @@ public class ValidationApp {
         } finally {
             System.out.println("Error atau tidak, blok ini akan tetap dieksekusi");
         }
+
+        LoginRequest loginRequest2 = new LoginRequest(null, null);
+        ValidationUtil.validateRuntime(loginRequest2);
+        System.out.println("Sukses");
     }
 }
