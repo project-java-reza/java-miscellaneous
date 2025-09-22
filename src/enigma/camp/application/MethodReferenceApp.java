@@ -8,30 +8,31 @@ import java.util.function.Predicate;
 public class MethodReferenceApp {
     public static void main(String[] args) {
 
-        // with method reference
+        // with method reference static
         Predicate<String> predicateIsLowerCase = StringUtil::isLowerCase;
 
         System.out.println(predicateIsLowerCase.test("reza")); // true
         System.out.println(predicateIsLowerCase.test("Reza")); // false
 
+        // method reference parameter
         Function<String, String> function = String::toUpperCase;
 
         System.out.println(function.apply("reza")); // REZA
 
     }
 
+    // method reference non static
     public void run() {
-        // with method reference to non static method
         Predicate<String> predicateIsLowerCase = this::isLowerCase;
 
         System.out.println(predicateIsLowerCase.test("reza")); // true
         System.out.println(predicateIsLowerCase.test("Reza")); // false
     }
 
+    // method reference object
     public void run2() {
         MethodReferenceApp app = new MethodReferenceApp();
 
-        // with method reference to non static method
         Predicate<String> predicateIsLowerCase = app::isLowerCase;
 
         System.out.println(predicateIsLowerCase.test("reza")); // true
