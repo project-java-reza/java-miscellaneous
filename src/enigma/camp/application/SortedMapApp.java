@@ -1,5 +1,6 @@
 package enigma.camp.application;
 
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.SortedMap;
 import java.util.TreeMap;
@@ -22,8 +23,13 @@ public class SortedMapApp {
         sortedMap.put("Ardiansyah", "Ardiansyah");
 
         for (var key : sortedMap.keySet()) {
-            System.out.println(key); 
+            System.out.println(key);
         }
+
+        SortedMap<String, String> empty = Collections.emptySortedMap();
+        SortedMap<String, String> immutable = Collections.unmodifiableSortedMap(sortedMap);
+
+        //immutable.put("Andi", "Andi"); // error
 
     }
 }
