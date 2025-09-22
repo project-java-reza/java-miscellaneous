@@ -14,7 +14,7 @@ public class SortedSetApp {
         people.add(new Person("Ardiansyah"));
 
         for (var person : people) {
-            System.out.println(person.getName()); // error
+            System.out.println(person.getName()); 
         }
     }
 }
