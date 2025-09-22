@@ -27,7 +27,6 @@ public class CollectionApp {
 
         System.out.println(collection.contains("Ardiansyah"));
         System.out.println(collection.containsAll(List.of("Ummu", "Sa'adah")));
-        // Im'Here
         System.out.println(collection.size());
     }
 }
