@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc4ae892-0048-4cf9-a8d6-63bdb8162922" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/AbstractClassApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/AnimalApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/CarApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/CollectionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/CollectionRemoveIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ConsumerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/DatabaseApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/EmployeeApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/EnumHashMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/EnumSetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/EqualsApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/FindPairsSetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ForEachApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/FunctionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/HashMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/IdentityHashMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ImmutableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ImmutableMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ImmutableSetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ImmutableSortedSetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/IterableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/LazyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/LinkedHashMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ListApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/MapForEachApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/MedianCalculatorCollectionListApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/MethodReferenceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/MutableApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/OptionalApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/PredicateApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ProductApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ReadApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/RecordApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/RemoveDuplicateAndSortCollectionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ShapeApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SimpleActionApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SoalBangunDatarAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SoalBerhitungInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SortedMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SortedSetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/StackTraceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/SupplierApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/ValidationApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/application/WeakHashMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/child/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/child/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/child/VicePresident.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Avanza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/BangunDatar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/HashBrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/IsMaintenance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Lingkaran.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Manusia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Persegi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/PersegiPanjang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/PersonComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/data/SoalBerhitung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/error/BlankException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/error/DatabaseError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/error/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/lambda/SimpleAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/parent/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/parent/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/util/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/enigma/camp/util/ValidationUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "project-java-reza"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://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@github.com/project-java-reza/java-miscellaneous.git",
+    "accountId": "4308325b-690e-447f-a7a6-7759087d5889"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3357InxT7rTf1KRtT5T7d4CtNn3" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "03.java-maven",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4ae892-0048-4cf9-a8d6-63bdb8162922" name="Changes" comment="" />
+      <created>1758595003544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758595003544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
